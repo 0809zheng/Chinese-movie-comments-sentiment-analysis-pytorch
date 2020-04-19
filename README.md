@@ -11,8 +11,6 @@
 - 链接：https://pan.baidu.com/s/1887bRjGQU2vm-4Re_C4ELw 
 - 提取码：lhn4
 
-使用Text-CNN模型，如下图所示：
+使用Text-CNN模型，模型包括词嵌入层、卷积层、池化层和全连接层。
 
 ![](https://pic.downk.cc/item/5e9bc837c2a9a83be5a96d95.jpg)
-
-模型包括词嵌入层、卷积层、池化层和全连接层。
